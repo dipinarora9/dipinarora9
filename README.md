@@ -5,8 +5,7 @@
 ## Application Developer
 
 
-#### Experienced Application Developer with a demonstrated history of working in the computer software industry. Skilled in Application
-Development with Flutter, C++, Automation Scripting using Python and Database Design
+#### Experienced Application Developer with a demonstrated history of working in the computer software industry. Skilled in Application Development with Flutter, C++, Automation Scripting using Python and Database Design
 
 ## WORK EXPERIENCE
 
