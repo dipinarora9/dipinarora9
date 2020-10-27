@@ -35,11 +35,20 @@ FWEAR IN is a women centric ecommerce startup
 - Designed complete infrastructure flow from product purchase to product delivery.
 - Write, update, and maintain app to handle specific jobs such as tracking inventory, storing or retrieving data, or controlling other equipment.
 
-## PERSONAL PROJECTS
+## PROJECTS
 
 #### Peer 2 Peer Messaging Application (03/2020 - Present)
 - A peer-to-peer(P2P) group messaging application that helps users communicate to multiple devices, connected over different NAT without the use of any centralized system/server.
 - The connection is made using UDP Nat hole punching.
+
+#### EduHub - MEF (08/2020 - 10/2020)
+- A Quiz app for Medical students of Croatia
+- [Play Store Link](https://play.google.com/store/apps/details?id=com.dominikbat.mef_baze)
+- [App Store Link](https://apps.apple.com/us/app/eduhub-mef/id1534931761)
+
+#### Income Tax Calculator (01/2019 - 06/2019)
+- Income Tax Calculator provides a quick and easy way to calculate your tax in a beautifully designed app.
+- [Play Store Link](https://play.google.com/store/apps/details?id=dipinarora9.IncomeTaxCalculator)
 
 ## EDUCATION
 
