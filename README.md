@@ -7,7 +7,7 @@
 
 ## WORK EXPERIENCE
 
-## Backend Developer
+## Backend Developer & System Design Engineer
 
 ## FWEAR IN
 
@@ -21,7 +21,7 @@ FWEAR IN is a women centric ecommerce startup
 - Provided methodologies for object-orientated software development and efficient database design.
 - Designed database architectures to support business applications, ensuring system scalability, security, performance and reliability.
 
-## Application Developer
+## Application Developer Intern
 
 ## FWEAR IN
 
