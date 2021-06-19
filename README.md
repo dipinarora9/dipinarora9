@@ -1,78 +1,61 @@
-# Dipin Arora
 
-## Application Developer
+# DIPIN ARORA
 
+## Work Experience
 
-#### Experienced Application Developer with a demonstrated history of working in the computer software industry. Skilled in Application Development with Flutter, C++, Automation Scripting using Python and Database Design
-
-## WORK EXPERIENCE
-
-## Backend Developer & System Design Engineer
-
-## FWEAR IN
-
-### 02/2020 - 09/2020
-
-```
-FWEAR IN is a women centric ecommerce startup
-```
-- Built a delivery system to automate the selection of delivery personnel to deliver products from point A to point B and incorporated it in an app.
+#### **Open Consulting Group** | Freelance App Developer (Remote) **Mar' 21 - Jun' 21**
+- Co-ordinated with another developer to connect UI with the backend.
+- Assembled systems of Login, Payment and Notifications.
+#### **Towbars And More Pty Ltd, South Africa** | Freelance Full Stack Developer (Remote) **Mar' 21 -Apr' 21**
+- Successfully implemented and **published** a business app that helps in automating and managing customer orders.
+- Facilitated purchase process resulting in **500%** decrease in order placement time.
+#### **Q4U License Renewals and Number Plates, South Africa** | Freelance Full Stack Developer (Remote) **Jan'21 - Feb' 21**
+- Authored an **algorithm** to effectively work alongside an Image Recognition software to accomplish business requirements.
+- Created an admin dashboard that **improved** the internal operating efficiency by over **30%**.
+#### **EduHub, Croatia** | Freelance App Developer (Remote) **Aug' 20 - Oct' 20**
+- **Developed** the learning platform from **scratch** reducing questions repetition time by **40%**.
+- Scaled the app that **captured** an audience of **1000** daily active users and earned recognition from the media.
+#### **FWEAR IN** | Part TimeFull Stack Developer **Feb' 20 - Sep' 20**
+- Worked with a **team** to **automate** the selection of delivery personnel for product delivery from source to destination.
 - Recommended architectural improvements, design solutions and integration solutions.
-- Provided methodologies for object-orientated software development and efficient database design.
-- Designed database architectures to support business applications, ensuring system scalability, security, performance and reliability.
+#### **FWEAR IN** | App Developer Intern **Sep' 19 - Jan' 20**
+- Devised complete infrastructure flow to accommodate product delivery in **3 hours** of purchase.
 
-## Application Developer Intern
+## Projects
 
-## FWEAR IN
+**Peer to Peer Messaging Application Dec' 20**
+_A voice and text communication app built using Flutter and C++._
+- Researched and used **UDP NAT Hole** punching to accomplish communication **omitting** the need of a server in between.
+- Achieved a Communication latency was less than **200ms.** Messages were **RSA** encoded.
 
-### 09/2019 - 01/2020
+**Income Tax Calculator July' 19**
+_A multilingual tax calculator app to save and compare records created using Flutter._
+- Users can search and read Income Tax Acts, calculate and store tax records.
+- App helped **13,000+** people to ease their tax calculation.
 
-```
-FWEAR IN is a women centric ecommerce startup
-```
+**Flutter Truecaller Plugin Sep' 20**
+_Truecaller SDK plugin for Flutter applications achieved using Dart and Kotlin._
+- Wrote and published an **Open source** plugin on pub.dev.
+- Henceforth helped other developers bring Truecallermobile verification to their apps.
 
-- Independently designed and executed company catalogue for infrastructure support and development.
-- Designed complete infrastructure flow from product purchase to product delivery.
-- Write, update, and maintain app to handle specific jobs such as tracking inventory, storing or retrieving data, or controlling other equipment.
+## Education
 
-## PROJECTS
+**HMR Institute of Technology and Management 2018 - 2022** 
+- Bachelor of Technology (B.Tech) in Computer Science Engineering | CGPA: **8.4/10** (expected)
+**Tagore Senior Secondary School 2017 - 2018**
+- CBSE (Class XII), Aggregate: 88.2 **%**
+**Tagore Senior Secondary School 2015 - 2016**
+- CBSE (Class X), CGPA: 9.8
 
-#### Peer 2 Peer Messaging Application (03/2020 - Present)
-- A peer-to-peer(P2P) group messaging application that helps users communicate to multiple devices, connected over different NAT without the use of any centralized system/server.
-- The connection is made using UDP Nat hole punching.
+## Skills
 
-#### EduHub - MEF (08/2020 - 10/2020)
-- A Quiz app for Medical students of Croatia
-- [Play Store Link](https://play.google.com/store/apps/details?id=com.dominikbat.mef_baze)
-- [App Store Link](https://apps.apple.com/us/app/eduhub-mef/id1534931761)
+C++ | C | Python | Flutter | Dart | Flask | GCP | Redis | SQL | NoSQL | Git
+## Academic and Extracurricular Achievements
 
-#### Income Tax Calculator (01/2019 - 06/2019)
-- Income Tax Calculator provides a quick and easy way to calculate your tax in a beautifully designed app.
-- [Play Store Link](https://play.google.com/store/apps/details?id=dipinarora9.IncomeTaxCalculator)
+- **Contributed** tests and enhancements to **Redisearch** Pythonclient v1.0.0.
+- Active contributor to Flutter In-App Purchase plugin in adding improvements and resolving issues.
+- **Contributed** enhancements and updates to Flutter FacebookAudience Network SDK client.
 
-## EDUCATION
+## Positions of Responsibility
 
-## HMR Institute of Technology and Management
-
-```
-Bachelor of Technology ( Computer Science Engineering )
-08/2018 - Present 
-```
-## SKILLS
-
-`C++ Programming` `Python scripting` `Flutter` `Redis` `Dart`
-
-## LANGUAGES
-
-```
-English
-Full Professional Proficiency
-```
-```
-Hindi
-Full Professional Proficiency
-```
-```
-French
-Elementary Proficiency
-```
+- Dooboolab open source contributor
