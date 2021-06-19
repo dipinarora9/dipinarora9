@@ -40,11 +40,11 @@ _Truecaller SDK plugin for Flutter applications achieved using Dart and Kotlin._
 
 ## Education
 
-**HMR Institute of Technology and Management 2018 - 2022** 
+#### **HMR Institute of Technology and Management 2018 - 2022** 
 - Bachelor of Technology (B.Tech) in Computer Science Engineering | CGPA: **8.4/10** (expected)
-**Tagore Senior Secondary School 2017 - 2018**
-- CBSE (Class XII), Aggregate: 88.2 **%**
-**Tagore Senior Secondary School 2015 - 2016**
+#### **Tagore Senior Secondary School 2017 - 2018**
+- CBSE (Class XII), Aggregate: 88.2%
+#### **Tagore Senior Secondary School 2015 - 2016**
 - CBSE (Class X), CGPA: 9.8
 
 ## Skills
