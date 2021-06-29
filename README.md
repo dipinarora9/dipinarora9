@@ -3,15 +3,15 @@
 
 ## Work Experience
 
-#### **Open Consulting Group** | Freelance App Developer (Remote) **Mar' 21 - Jun' 21**
-- Co-ordinated with another developer to connect UI with the backend.
-- Assembled systems of Login, Payment and Notifications.
-#### **Towbars And More Pty Ltd, South Africa** | Freelance Full Stack Developer (Remote) **Mar' 21 -Apr' 21**
+#### **Towbars And More Pty Ltd, South Africa** | Freelance Full Stack Developer (Remote) **Mar' 21 - May' 21**
 - Successfully implemented and **published** a business app that helps in automating and managing customer orders.
 - Facilitated purchase process resulting in **500%** decrease in order placement time.
-#### **Q4U License Renewals and Number Plates, South Africa** | Freelance Full Stack Developer (Remote) **Jan'21 - Feb' 21**
+#### **Open Consulting Group** | Freelance App Developer (Remote) **Mar' 21 - May' 21**
+- Co-ordinated with another developer to connect UI with the backend.
+- Assembled systems of Login, Payment and Notifications.
+#### **Q4U License Renewals and Number Plates, South Africa** | Freelance Full Stack Developer (Remote) **Jan'21 - Mar' 21**
 - Authored an **algorithm** to effectively work alongside an Image Recognition software to accomplish business requirements.
-- Created an admin dashboard that **improved** the internal operating efficiency by over **30%**.
+- Created an admin dashboard that **improved** the internal operating efficiency by over **90%**.
 #### **EduHub, Croatia** | Freelance App Developer (Remote) **Aug' 20 - Oct' 20**
 - **Developed** the learning platform from **scratch** reducing questions repetition time by **40%**.
 - Scaled the app that **captured** an audience of **1000** daily active users and earned recognition from the media.
@@ -49,7 +49,8 @@ _Truecaller SDK plugin for Flutter applications achieved using Dart and Kotlin._
 
 ## Skills
 
-C++ | C | Python | Flutter | Dart | Flask | GCP | Redis | SQL | NoSQL | Git
+C++ | C | Python | Flutter | Dart | Flask | RestAPI | GCP | Redis | SQL | NoSQL | MongoDB | Linux | Git
+
 ## Academic and Extracurricular Achievements
 
 - **Contributed** tests and enhancements to **Redisearch** Pythonclient v1.0.0.
