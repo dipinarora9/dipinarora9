@@ -28,15 +28,15 @@ _A voice and text communication app built using Flutter and C++._
 - Researched and used **UDP NAT Hole** punching to accomplish communication **omitting** the need of a server in between.
 - Achieved a Communication latency was less than **200ms.** Messages were **RSA** encoded.
 
-**Income Tax Calculator July' 19**
-_A multilingual tax calculator app to save and compare records created using Flutter._
-- Users can search and read Income Tax Acts, calculate and store tax records.
-- App helped **13,000+** people to ease their tax calculation.
-
 **Flutter Truecaller Plugin Sep' 20**
 _Truecaller SDK plugin for Flutter applications achieved using Dart and Kotlin._
 - Wrote and published an **Open source** plugin on pub.dev.
 - Henceforth helped other developers bring Truecallermobile verification to their apps.
+
+**Income Tax Calculator July' 19**
+_A multilingual tax calculator app to save and compare records created using Flutter._
+- Users can search and read Income Tax Acts, calculate and store tax records.
+- App helped **13,000+** people to ease their tax calculation.
 
 ## Education
 
