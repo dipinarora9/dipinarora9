@@ -5,7 +5,7 @@
 
 #### **Towbars And More Pty Ltd, South Africa** | Freelance Full Stack Developer (Remote) **Mar' 21 - May' 21**
 - Successfully implemented and **published** a business app that helps in automating and managing customer orders.
-- Facilitated purchase process resulting in **500%** decrease in order placement time.
+- Facilitated purchase process resulting in **98%** decrease in order placement time.
 #### **Open Consulting Group** | Freelance App Developer (Remote) **Mar' 21 - May' 21**
 - Co-ordinated with another developer to connect UI with the backend.
 - Assembled systems of Login, Payment and Notifications.
