@@ -41,8 +41,8 @@ _A multilingual tax calculator app to save and compare records created using Flu
 
 ## Education
 
-#### **HMR Institute of Technology and Management 2018 - 2022** 
-- Bachelor of Technology (B.Tech) in Computer Science Engineering | CGPA: **8.4/10** (expected)
+#### **HMR Institute of Technology and Management 2018 - 2022** (expected)
+- Bachelor of Technology (B.Tech) in Computer Science Engineering | CGPA: **8.4/10** 
 #### **Tagore Senior Secondary School 2017 - 2018**
 - CBSE (Class XII), Aggregate: 88.2%
 #### **Tagore Senior Secondary School 2015 - 2016**
