@@ -4,19 +4,19 @@
 
 ## Work Experience
 
-#### **Towbars And More Pty Ltd, South Africa** | Freelance Full Stack Developer (Remote) | **Mar' 21 - May' 21**
+#### **Towbars And More, South Africa** | Freelance Full Stack Developer (Remote) | **Mar' 21 - May' 21**
 - Successfully implemented and **published** a business app that helps in automating and managing customer orders.
 - Facilitated purchase process resulting in **98%** decrease in order placement time.
 #### **Open Consulting Group** | Freelance App Developer (Remote) | **Mar' 21 - May' 21**
 - Co-ordinated with another developer to connect UI with the backend.
 - Assembled systems of Login, Payment and Notifications.
-#### **Q4U License Renewals and Number Plates, South Africa** | Freelance Full Stack Developer (Remote) | **Jan'21 - Mar' 21**
+#### **Q4U License Renewals and Number Plates Pty Ltd, South Africa** | Freelance Full Stack Developer (Remote) | **Jan'21 - Mar' 21**
 - Authored an **algorithm** to effectively work alongside an OSS library to accomplish **eCommerce** business requirements.
 - Created an admin dashboard that **improved** the internal operating efficiency by over **90%**.
-#### **EduHub, Croatia** | Freelance App Developer (Remote) | **Aug' 20 - Oct' 20**
+#### **Udruga Cognitus, Croatia** | Freelance Full Stack Developer (Remote) | **Aug' 20 - Mar' 21**
 - Developed an **EdTech** platform from scratch reducing questions repetition time by **40%**.
 - Scaled the app that **captured** an audience of **1000** daily active users and earned recognition from Croatian local media.
-#### **FWEAR IN** | Full Stack Developer **Feb' 20 - Sep' 20**
+#### **FWEAR IN** | Part Time Full Stack Developer **Feb' 20 - Sep' 20**
 - Worked in a **team** of 4 to **automate** the selection of delivery personnel for product delivery from source to destination.
 - Recommended architectural improvements, design solutions and integration solutions.
 #### **FWEAR IN** | App Developer Intern | **Sep' 19 - Jan' 20**
@@ -42,7 +42,7 @@ _A multilingual tax calculator app to save and compare records created using Flu
 ## Education
 
 #### **HMR Institute of Technology and Management 2018 - 2022** (expected)
-- Bachelor of Technology (B.Tech) in Computer Science Engineering | CGPA: **8.4/10** 
+- Bachelor of Technology (B.Tech) in Computer Science Engineering | CGPA: **8.6/10** 
 #### **Tagore Senior Secondary School 2017 - 2018**
 - CBSE (Class XII), Aggregate: 88.2%
 #### **Tagore Senior Secondary School 2015 - 2016**
