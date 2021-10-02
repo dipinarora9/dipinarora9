@@ -4,16 +4,16 @@
 
 ## Work Experience
 
-#### **Towbars And More, South Africa** | Freelance Full Stack Developer (Remote) | **Mar' 21 - May' 21**
+#### **[Towbars And More](https://app.towbarsandmore.com), South Africa** | Freelance Full Stack Developer (Remote) | **Mar' 21 - May' 21**
 - Successfully implemented and **published** a business app that helps in automating and managing customer orders.
 - Facilitated purchase process resulting in **98%** decrease in order placement time.
 #### **Open Consulting Group** | Freelance App Developer (Remote) | **Mar' 21 - May' 21**
 - Co-ordinated with another developer to connect UI with the backend.
 - Assembled systems of Login, Payment and Notifications.
-#### **Q4U License Renewals and Number Plates Pty Ltd, South Africa** | Freelance Full Stack Developer (Remote) | **Jan'21 - Mar' 21**
+#### **[Q4U License Renewals and Number Plates Pty Ltd](https://play.google.com/store/apps/details?id=vehicle.license.renewal), South Africa** | Freelance Full Stack Developer (Remote) | **Jan'21 - Mar' 21**
 - Authored an **algorithm** to effectively work alongside an OSS library to accomplish **eCommerce** business requirements.
 - Created an admin dashboard that **improved** the internal operating efficiency by over **90%**.
-#### **Udruga Cognitus, Croatia** | Freelance Full Stack Developer (Remote) | **Aug' 20 - Mar' 21**
+#### **[Udruga Cognitus](https://play.google.com/store/apps/details?id=com.dominikbat.mef_baze), Croatia** | Freelance Full Stack Developer (Remote) | **Aug' 20 - Mar' 21**
 - Developed an **EdTech** platform from scratch reducing questions repetition time by **40%**.
 - Scaled the app that **captured** an audience of **1000** daily active users and earned recognition from Croatian local media.
 #### **FWEAR IN** | Part Time Full Stack Developer **Feb' 20 - Sep' 20**
